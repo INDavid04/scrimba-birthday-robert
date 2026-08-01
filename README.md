@@ -1,11 +1,7 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# 🎂 Robert's Birthday App
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
+An interactive web application built to celebrate Robert's birthday, featuring a dynamic live counter, neon animations, and interactive gift sections.
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
