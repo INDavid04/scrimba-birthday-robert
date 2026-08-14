@@ -2,6 +2,10 @@
 
 An interactive web application built to celebrate Robert's birthday, featuring a dynamic live counter, neon animations, and interactive gift sections.
 
+## 🛠️ Technologies Used
+- HTML & CSS
+- JavaScript
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
